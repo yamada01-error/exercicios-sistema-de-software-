@@ -18,5 +18,5 @@ Repositório criado para praticar lógica de programação e desenvolvimento de 
 
 ### 🔴 DIFÍCIL 
 - Sistema de Hotel
-- Sistema de Mercado
-- Sistema de Hospital
+- Sistema de loja 
+- Sistema de ranking 
