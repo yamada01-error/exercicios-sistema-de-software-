@@ -6,30 +6,17 @@ Repositório criado para praticar lógica de programação e desenvolvimento de 
 
 ## 📁 Níveis
 
-### 🟢 Básico
+### 🟢 FÁCIL 
 - Sistema de Login
 - Sistema de Notas
 - Sistema de Caixa
 
-### 🟡 Intermediário
+### 🟡 MÉDIO 
 - Sistema de Fila
 - Sistema de Biblioteca
 - Sistema de Estacionamento
 
-### 🔴 Avançado
+### 🔴 DIFÍCIL 
 - Sistema de Hotel
 - Sistema de Mercado
 - Sistema de Hospital
-
-## 🚀 Tecnologias
-- JavaScript
-- Node.js
-
-## 📚 Objetivo
-Treinar:
-- lógica de programação
-- arrays
-- funções
-- classes
-- orientação a objetos
-- estruturas de dados
